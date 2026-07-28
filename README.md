@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Teddy Omondi </h1>
-<h3 align="center">A Senior Software Engineer in Germany</h3>
+<h3 align="center">A Senior Software Engineer in Germany,I build reliable, well-architected systems and enjoy solving complex, real-world problems through critical thinking and first-principles reasoning.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
